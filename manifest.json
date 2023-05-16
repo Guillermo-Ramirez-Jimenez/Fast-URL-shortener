@@ -1,0 +1,11 @@
+{
+    "name": "URL shortener",
+    "version": "1.0.0",
+    "description": "Generate and copy to clipboard create short URL",
+    "manifest_version": 3,
+    "author": "Guille",
+    "action":   {
+        "default_popup": "index.html",
+        "default_title": "URL shortener"
+    }
+}
